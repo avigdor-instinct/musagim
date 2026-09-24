@@ -1,3 +1,7 @@
+> **This repository has moved.** The podcast now lives at https://github.com/aiaieshel-hub/musagim
+> New feed: https://aiaieshel-hub.github.io/musagim/feed.xml - new site: https://aiaieshel-hub.github.io/musagim/
+> This repo is frozen and gets no new episodes.
+
 # בלשון סוכנים (Bilshon Sochnim)
 
 Personal Hebrew mini-podcast. Static site + RSS feed served by GitHub Pages.
